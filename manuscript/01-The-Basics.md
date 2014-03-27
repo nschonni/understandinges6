@@ -1,4 +1,4 @@
-# The Basics
+# The Basics {#chapter-01}
 
 ECMAScript 6 makes a large number of changes on top of ECMAScript 5. Some of the changes are larger, such as adding new types or syntax, while others are quite small, providing incremental improvements on top of the language. This chapter covers those incremental improvements that likely won't gain a lot of attention but provide some important functionality that can may make certain types of problems easier to solve.
 

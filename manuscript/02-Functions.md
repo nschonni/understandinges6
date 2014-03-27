@@ -1,4 +1,4 @@
-# Functions
+# Functions {#chapter-02}
 
 
 ## Default Parameters

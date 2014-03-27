@@ -22,29 +22,29 @@ This book is not for beginners who have never written JavaScript. You will need 
 
 ## Overview
 
-**Chapter 1: The Basics** introduces the smallest changes in the language. These are the new features that don't necessarily introduce syntax changes, but rather are incremental changes on top of ECMAScript 5.
+**[Chapter 1: The Basics](#chapter-01)** introduces the smallest changes in the language. These are the new features that don't necessarily introduce syntax changes, but rather are incremental changes on top of ECMAScript 5.
 
-**Chapter 2: Functions** discusses the various changes to functions. This includes the arrow function form, default parameters, rest parameters, and more.
+**[Chapter 2: Functions](#chapter-02)** discusses the various changes to functions. This includes the arrow function form, default parameters, rest parameters, and more.
 
-**Chapter 3: Objects** explains the changes to how objects are created, modified, and used. Topics include changes to object literal syntax, using symbols, and new reflection methods.
+**[Chapter 3: Objects](#chapter-03)** explains the changes to how objects are created, modified, and used. Topics include changes to object literal syntax, using symbols, and new reflection methods.
 
-**Chapter 4: Classes** introduces the first formal concept of classes in JavaScript. Often a point of confusion for those coming from other languages, the addition of class syntax in JavaScript makes the language more approachable to others and more concise for enthusiasts.
+**[Chapter 4: Classes](#chapter-04)** introduces the first formal concept of classes in JavaScript. Often a point of confusion for those coming from other languages, the addition of class syntax in JavaScript makes the language more approachable to others and more concise for enthusiasts.
 
-**Chapter 5: Arrays** details the changes to native arrays and the interesting new ways they can be used in JavaScript.
+**[Chapter 5: Arrays](#chapter-05)** details the changes to native arrays and the interesting new ways they can be used in JavaScript.
 
-**Chapter 6: Iterators and Generators** discusses the addition of iterators and generators to the language. These features all you to work collections of data in powerful ways that were never before possible in JavaScript.
+**[Chapter 6: Iterators and Generators](#chapter-06)** discusses the addition of iterators and generators to the language. These features all you to work collections of data in powerful ways that were never before possible in JavaScript.
 
-**Chapter 7: Collections** details the new collection types of `Set`, `WeakSet`, `Map`, and `WeakMap`. These types expand on the usefulness of arrays by adding semantics, de-duping, and memory management designed specifically for JavaScript.
+**[Chapter 7: Collections](#chapter-07)** details the new collection types of `Set`, `WeakSet`, `Map`, and `WeakMap`. These types expand on the usefulness of arrays by adding semantics, de-duping, and memory management designed specifically for JavaScript.
 
-**Chapter 8: Proxies** discusses the new proxy object that allows you to intercept every operation performed on an object. Proxies give developers unprecedented control over objects and, as such, unlimited possibilities for defining new interaction patterns.
+**[Chapter 8: Proxies](#chapter-08)** discusses the new proxy object that allows you to intercept every operation performed on an object. Proxies give developers unprecedented control over objects and, as such, unlimited possibilities for defining new interaction patterns.
 
-**Chapter 9: Promises** introduces promises as a new part of the language. Promises were a grassroots effort that eventually took off and gained in popularity due to extensive library support. ECMAScript 6 formalizes promises and makes them available by default.
+**[Chapter 9: Promises](#chapter-09)** introduces promises as a new part of the language. Promises were a grassroots effort that eventually took off and gained in popularity due to extensive library support. ECMAScript 6 formalizes promises and makes them available by default.
 
-**Chapter 10: Modules** details the official module format for JavaScript. The intent is that these modules can replace the numerous ad-hoc module definition formats that have appeared over the years.
+**[Chapter 10: Modules](#chapter-10)** details the official module format for JavaScript. The intent is that these modules can replace the numerous ad-hoc module definition formats that have appeared over the years.
 
-**Chapter 11: Template Strings** discusses the new built-in templating functionality. Template strings are designed to easily create DSLs in a secure way.
+**[Chapter 11: Template Strings](#chapter-11)** discusses the new built-in templating functionality. Template strings are designed to easily create DSLs in a secure way.
 
-**Chapter 12: Reflection** introduces the formalized reflection API for JavaScript. Similar to other languages, ECMAScript 6 reflection allows you to inspect objects at a granular level, even if you didn't create the object.
+**[Chapter 12: Reflection](#chapter-12)** introduces the formalized reflection API for JavaScript. Similar to other languages, ECMAScript 6 reflection allows you to inspect objects at a granular level, even if you didn't create the object.
 
 ## Help and Support
 

@@ -1,4 +1,4 @@
-# Objects
+# Objects {#chapter-03}
 
 A lot of ECMAScript 6 focused on improving the utility of objects. The focus makes sense given that nearly every value in JavaScript is represented by some type of object. Additionally, the number of objects used in an average Javascript program continues to increase, meaning that developers are writing more objects all the time. With more objects comes the ability to use them more effectively.
 
